@@ -8,11 +8,7 @@ Er gibt dir **keine** fertigen Lösungen. Stattdessen fragt er, was du schon ver
 
 ## Warum so?
 
-<<<<<<< HEAD
-Studien zu KI-Tutoren kommen immer wieder zum selben Ergebnis: Wenn eine KI Studierenden fertige Lösungen liefert, werden die Hausaufgaben besser, aber was studenten danach selbstständig können, wird *schlechter*. Dieselbe KI, so eingestellt, dass sie Hinweise statt Antworten gibt, verhindert diesen Effekt, und Tutoren, bei denen man selbst argumentieren muss, führen zu echten Lernerfolgen. Fertige Antworten fühlen sich hilfreicher an – aber dieses Gefühl sagt wenig darüber aus, was man tatsächlich lernt.
-=======
 Mehrere Studien zu KI-Tutoren finden: Wenn eine KI Studierenden fertige Lösungen liefert, werden die Hausaufgaben besser, aber was sie danach selbstständig können, wird tendenziell *schlechter*. Dieselbe KI, so eingestellt, dass sie Hinweise statt Antworten gibt, hat diesen Effekt weitgehend verhindert, und Tutoren, bei denen man selbst argumentieren muss, führten zu echten Lernerfolgen. Fertige Antworten fühlen sich hilfreicher an – aber dieses Gefühl sagt wenig darüber aus, was man tatsächlich lernt.
->>>>>>> 61608df (Wording correction in README.md)
 
 ## Installation
 
