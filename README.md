@@ -8,7 +8,7 @@ It will **not** give you finished solutions. It asks what you've tried, gives hi
 
 ## Why this way?
 
-Studies of AI tutoring consistently find that when an AI hands students complete solutions, their homework improves but what they can do on their own afterwards gets *worse*. The same AI set up to give hints instead of answers removes that harm, and tutors that make you do the reasoning produce real gains. Getting answers feels more helpful — but that feeling turns out to be a poor guide to what you actually learn.
+Several studies of AI tutoring find that when an AI hands students complete solutions, their homework improves but what they can do on their own afterwards tends to get *worse*. The same AI set up to give hints instead of answers largely removed that harm, and tutors that make you do the reasoning produced real gains. Getting answers feels more helpful — but that feeling turns out to be a poor guide to what you actually learn.
 
 ## Install
 
