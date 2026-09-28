@@ -2,13 +2,13 @@
 
 [English](https://github.com/Marcel-Rodekamp/physics-AI-tutor/tree/main-english) | **Deutsch**
 
-Ein KI-Lerntutor zum Durcharbeiten von Übungsblättern und Vorlesungen in Physik. Er wurde für eine Teilchenphysik-Vorlesung nach Griffiths, *Introduction to Elementary Particles*, entwickelt, funktioniert aber für jede Physikvorlesung.
+Ein KI-Lerntutor zum bearbeiten von Übungsblättern und Vorlesungen in Physik. Er wurde für eine Teilchenphysik-Vorlesung nach Griffiths, *Introduction to Elementary Particles*, entwickelt, funktioniert aber für jede Physikvorlesung.
 
 Er gibt dir **keine** fertigen Lösungen. Stattdessen fragt er, was du schon versucht hast, gibt Schritt für Schritt Hinweise, prüft deine eigenen Ergebnisse, erklärt Konzepte und fragt dich zu älterem Stoff ab. Die Idee: Du denkst selbst, die KI macht das Denken leichter.
 
 ## Warum so?
 
-Studien zu KI-Tutoren kommen immer wieder zum selben Ergebnis: Wenn eine KI Studierenden fertige Lösungen liefert, werden die Hausaufgaben besser, aber was sie danach selbstständig können, wird *schlechter*. Dieselbe KI, so eingestellt, dass sie Hinweise statt Antworten gibt, verhindert diesen Effekt, und Tutoren, bei denen man selbst argumentieren muss, führen zu echten Lernerfolgen. Fertige Antworten fühlen sich hilfreicher an – aber dieses Gefühl sagt wenig darüber aus, was man tatsächlich lernt.
+Studien zu KI-Tutoren kommen immer wieder zum selben Ergebnis: Wenn eine KI Studierenden fertige Lösungen liefert, werden die Hausaufgaben besser, aber was studenten danach selbstständig können, wird *schlechter*. Dieselbe KI, so eingestellt, dass sie Hinweise statt Antworten gibt, verhindert diesen Effekt, und Tutoren, bei denen man selbst argumentieren muss, führen zu echten Lernerfolgen. Fertige Antworten fühlen sich hilfreicher an – aber dieses Gefühl sagt wenig darüber aus, was man tatsächlich lernt.
 
 ## Installation
 
