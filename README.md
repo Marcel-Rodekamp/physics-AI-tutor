@@ -45,3 +45,7 @@ The skill is just a text file of instructions. Open [`physics-study-tutor/SKILL.
 ## Feedback
 
 If the tutor gives away too much, too little, or behaves oddly, please open an issue or tell your tutor.
+
+## Thanks
+
+I would like to thank [Sebastian Spiegel](https://github.com/spieseba) for vibrant discussions and contributions towards the development of this claude skill.
