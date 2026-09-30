@@ -47,3 +47,7 @@ Die Anweisungen sind auf Englisch geschrieben; der Tutor antwortet aber in der S
 ## Feedback
 
 Wenn der Tutor zu viel verrät, zu wenig hilft oder sich seltsam verhält, eröffne bitte ein Issue oder sag deinem Tutor Bescheid.
+
+## Thanks
+
+Ich möchte mich bei [Sebastian Spiegel](https://github.com/spieseba) für die lebhaften Diskussionen und seine Beiträge zur Entwicklung dieses Claude-Skills bedanken.
